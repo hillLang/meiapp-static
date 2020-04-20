@@ -1,0 +1,321 @@
+[
+  {
+    "text": "mediocre:  Live more than a mediocre life.",
+    "chinese": "追求不凡，不要平庸。",
+    "ipa": "ˌmidiˈoʊkər:  lɪv mɔr ðæn ə ˌmidiˈoʊkər laɪf",
+    "maxScore": [
+      [
+        "MEDIOCRE",
+        "M_B: 100",
+        "IY2_I: 100",
+        "D_I: 100",
+        "IY0_I: 80",
+        "OW1_I: 100",
+        "K_I: 100",
+        "ER0_E: 100"
+      ],
+      [
+        "LIVE",
+        "L_B: 60",
+        "IH1_I: 100",
+        "V_E: 80"
+      ],
+      [
+        "MORE",
+        "M_B: 100",
+        "AO1_I: 100",
+        "R_E: 100"
+      ],
+      [
+        "THAN",
+        "DH_B: 100",
+        "AH0_I: 100",
+        "N_E: 80"
+      ],
+      [
+        "A",
+        "AH0_S: 100"
+      ],
+      [
+        "MEDIOCRE",
+        "M_B: 100",
+        "IY2_I: 100",
+        "D_I: 100",
+        "IY0_I: 100",
+        "OW1_I: 100",
+        "K_I: 100",
+        "ER0_E: 80"
+      ],
+      [
+        "LIFE",
+        "L_B: 100",
+        "AY1_I: 40",
+        "F_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "miserable:  Time is too short to be miserable.",
+    "chinese": "生命短暂，不要沉浸在痛苦中。",
+    "ipa": "ˈmɪzərəbəl:  taɪm ɪz tu ʃɔrt tu bi ˈmɪzərəbəl.",
+    "maxScore": [
+      [
+        "MISERABLE",
+        "M_B: 100",
+        "IH1_I: 100",
+        "Z_I: 100",
+        "ER0_I: 100",
+        "AH0_I: 100",
+        "B_I: 100",
+        "AH0_I: 100",
+        "L_E: 100"
+      ],
+      [
+        "TIME",
+        "T_B: 100",
+        "AY1_I: 100",
+        "M_E: 60"
+      ],
+      [
+        "IS",
+        "IH0_B: 60",
+        "Z_E: 100"
+      ],
+      [
+        "TOO",
+        "T_B: 100",
+        "UW1_E: 100"
+      ],
+      [
+        "SHORT",
+        "SH_B: 100",
+        "AO1_I: 100",
+        "R_I: 100",
+        "T_E: 100"
+      ],
+      [
+        "TO",
+        "T_B: 100",
+        "IH0_E: 100"
+      ],
+      [
+        "BE",
+        "B_B: 100",
+        "IY0_E: 100"
+      ],
+      [
+        "MISERABLE",
+        "M_B: 100",
+        "IH1_I: 80",
+        "Z_I: 100",
+        "ER0_I: 100",
+        "AH0_I: 100",
+        "B_I: 60",
+        "AH0_I: 100",
+        "L_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "modality:  The written modality for the visually impaired is braille.",
+    "chinese": "盲人的书面形式是盲文。",
+    "ipa": "məˈdæləti:  ðə ˈrɪtən məˈdæləti fɔr ðə ˈvɪʒwəli ɪmˈpɛrd ɪz breɪl.",
+    "maxScore": [
+      [
+        "MODALITY",
+        "M_B: 100",
+        "AH0_I: 40",
+        "D_I: 60",
+        "AE1_I: 100",
+        "L_I: 100",
+        "AH0_I: 100",
+        "T_I: 20",
+        "IY0_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 0"
+      ],
+      [
+        "WRITTEN",
+        "R_B: 100",
+        "IH1_I: 20",
+        "T_I: 0",
+        "AH0_I: 100",
+        "N_E: 80"
+      ],
+      [
+        "MODALITY",
+        "M_B: 100",
+        "AH0_I: 0",
+        "D_I: 80",
+        "AE1_I: 100",
+        "L_I: 100",
+        "AH0_I: 100",
+        "T_I: 100",
+        "IY0_E: 100"
+      ],
+      [
+        "FOR",
+        "F_B: 100",
+        "R_I: 100",
+        "ER0_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 60"
+      ],
+      [
+        "VISUALLY",
+        "V_B: 80",
+        "IH1_I: 100",
+        "ZH_I: 100",
+        "W_I: 0",
+        "AH0_I: 20",
+        "L_I: 60",
+        "IY0_E: 100"
+      ],
+      [
+        "IMPAIRED",
+        "IH0_B: 100",
+        "M_I: 100",
+        "P_I: 100",
+        "EH1_I: 80",
+        "R_I: 100",
+        "D_E: 80"
+      ],
+      [
+        "IS",
+        "IH0_B: 100",
+        "Z_E: 100"
+      ],
+      [
+        "BRAILLE",
+        "B_B: 100",
+        "R_I: 100",
+        "EY1_I: 100",
+        "L_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "manager:  Our manager is inspirational.",
+    "chinese": "我们的经理极具感召力。",
+    "ipa": "ˈmænəʤər:  ˈaʊər ˈmænəʤər ɪz ˌɪnspəˈreɪʃənəl.",
+    "maxScore": [
+      [
+        "MANAGER",
+        "M_B: 100",
+        "AE1_I: 100",
+        "N_I: 100",
+        "AH0_I: 100",
+        "JH_I: 100",
+        "ER0_E: 100"
+      ],
+      [
+        "OUR",
+        "AW1_B: 100",
+        "ER0_E: 100"
+      ],
+      [
+        "MANAGER",
+        "M_B: 100",
+        "AE1_I: 100",
+        "N_I: 100",
+        "IH0_I: 80",
+        "JH_I: 100",
+        "ER0_E: 80"
+      ],
+      [
+        "IS",
+        "IH1_B: 100",
+        "Z_E: 100"
+      ],
+      [
+        "INSPIRATIONAL",
+        "IH2_B: 100",
+        "N_I: 100",
+        "S_I: 100",
+        "P_I: 100",
+        "ER0_I: 80",
+        "EY1_I: 100",
+        "SH_I: 100",
+        "AH0_I: 100",
+        "N_I: 100",
+        "AH0_I: 100",
+        "L_E: 80"
+      ]
+    ]
+  },
+  {
+    "text": "monumental:  Writing a book is a monumental task.",
+    "chinese": "写书是一项艰巨的任务。",
+    "ipa": "",
+    "maxScore": [
+      [
+        "MONUMENTAL",
+        "M_B: 100",
+        "AA2_I: 0",
+        "N_I: 100",
+        "Y_I: 100",
+        "AH0_I: 100",
+        "M_I: 100",
+        "EH1_I: 100",
+        "N_I: 100",
+        "T_I: 100",
+        "AH0_I: 100",
+        "L_E: 100"
+      ],
+      [
+        "WRITING",
+        "R_B: 100",
+        "AY1_I: 100",
+        "T_I: 100",
+        "IH0_I: 60",
+        "NG_E: 100"
+      ],
+      [
+        "A",
+        "AH0_S: 100"
+      ],
+      [
+        "BOOK",
+        "B_B: 100",
+        "UH1_I: 60",
+        "K_E: 80"
+      ],
+      [
+        "IS",
+        "IH1_B: 100",
+        "Z_E: 100"
+      ],
+      [
+        "A",
+        "AH0_S: 100"
+      ],
+      [
+        "MONUMENTAL",
+        "M_B: 100",
+        "AA2_I: 100",
+        "N_I: 100",
+        "Y_I: 100",
+        "UW0_I: 100",
+        "M_I: 100",
+        "EH1_I: 100",
+        "N_I: 100",
+        "T_I: 100",
+        "AH0_I: 100",
+        "L_E: 100"
+      ],
+      [
+        "TASK",
+        "T_B: 100",
+        "AE1_I: 100",
+        "S_I: 100",
+        "K_E: 100"
+      ]
+    ]
+  }
+]
