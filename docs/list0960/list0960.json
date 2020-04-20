@@ -1,0 +1,272 @@
+[
+  {
+    "text": "I like to find ways to relax.",
+    "chinese": "我喜欢尝试不同的休闲方式。",
+    "ipa": "aɪ laɪk tuː faɪnd weɪz tuː rɪˈlæks",
+    "maxScore": [
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "LIKE",
+        "L_B: 80",
+        "AY1_I: 100",
+        "K_E: 60"
+      ],
+      [
+        "TO",
+        "T_B: 100",
+        "IH0_E: 100"
+      ],
+      [
+        "FIND",
+        "F_B: 100",
+        "AY1_I: 100",
+        "N_I: 100",
+        "D_E: 80"
+      ],
+      [
+        "WAYS",
+        "W_B: 100",
+        "EY1_I: 80",
+        "Z_E: 20"
+      ],
+      [
+        "TO",
+        "T_B: 80",
+        "UW1_E: 100"
+      ],
+      [
+        "RELAX",
+        "R_B: 100",
+        "IH0_I: 100",
+        "L_I: 100",
+        "AE1_I: 100",
+        "K_I: 80",
+        "S_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "On a cool day, I take walks by the lake.",
+    "chinese": "清爽的天气，在湖边散步。",
+    "ipa": "ɒn ə kuːl deɪ, aɪ teɪk wɔːks baɪ ðə leɪk",
+    "maxScore": [
+      [
+        "ON",
+        "AO1_B: 100",
+        "N_E: 100"
+      ],
+      [
+        "A",
+        "AH0_S: 80"
+      ],
+      [
+        "COOL",
+        "K_B: 100",
+        "UW1_I: 100",
+        "L_E: 100"
+      ],
+      [
+        "DAY",
+        "D_B: 100",
+        "EY1_E: 100"
+      ],
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "TAKE",
+        "T_B: 100",
+        "EY1_I: 100",
+        "K_E: 60"
+      ],
+      [
+        "WALKS",
+        "W_B: 100",
+        "AO1_I: 40",
+        "K_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "BY",
+        "B_B: 100",
+        "AY1_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 80"
+      ],
+      [
+        "LAKE",
+        "L_B: 100",
+        "EY1_I: 60",
+        "K_E: 60"
+      ]
+    ]
+  },
+  {
+    "text": "The scent of water is very soothing.",
+    "chinese": "水的味道使人放松。",
+    "ipa": "ðə sɛnt ɒv ˈwɔːtər ɪz ˈvɛri ˈsuːðɪŋ.",
+    "maxScore": [
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "SCENT",
+        "S_B: 100",
+        "EH1_I: 100",
+        "N_I: 100",
+        "T_E: 100"
+      ],
+      [
+        "OF",
+        "AH0_B: 100",
+        "V_E: 40"
+      ],
+      [
+        "WATER",
+        "W_B: 100",
+        "AO1_I: 100",
+        "T_I: 100",
+        "ER0_E: 60"
+      ],
+      [
+        "IS",
+        "IH1_B: 100",
+        "Z_E: 100"
+      ],
+      [
+        "VERY",
+        "V_B: 100",
+        "EH1_I: 100",
+        "R_I: 100",
+        "IY0_E: 40"
+      ],
+      [
+        "SOOTHING",
+        "S_B: 100",
+        "UW1_I: 100",
+        "DH_I: 100",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "Watching birds floating is calming.",
+    "chinese": "观察飞鸟使人内心平静。",
+    "ipa": "ˈwɒʧɪŋ bɜːdz ˈfləʊtɪŋ ɪz ˈkɑːmɪŋ",
+    "maxScore": [
+      [
+        "WATCHING",
+        "W_B: 100",
+        "AA1_I: 100",
+        "CH_I: 100",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ],
+      [
+        "BIRDS",
+        "B_B: 100",
+        "ER1_I: 100",
+        "D_I: 100",
+        "Z_E: 100"
+      ],
+      [
+        "FLOATING",
+        "F_B: 100",
+        "L_I: 100",
+        "OW1_I: 100",
+        "T_I: 40",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ],
+      [
+        "IS",
+        "IH0_B: 100",
+        "Z_E: 100"
+      ],
+      [
+        "CALMING",
+        "K_B: 100",
+        "AA1_I: 100",
+        "M_I: 100",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "I am grateful for the time I have to relax.",
+    "chinese": "这样的休息时光让人心生感激。",
+    "ipa": "aɪ æm ˈgreɪtfʊl fɔː ðə taɪm aɪ hæv tuː rɪˈlæks",
+    "maxScore": [
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "AM",
+        "AE1_B: 100",
+        "M_E: 100"
+      ],
+      [
+        "GRATEFUL",
+        "G_B: 100",
+        "R_I: 100",
+        "EY1_I: 60",
+        "T_I: 100",
+        "F_I: 80",
+        "AH0_I: 100",
+        "L_E: 100"
+      ],
+      [
+        "FOR",
+        "F_B: 100",
+        "ER0_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "TIME",
+        "T_B: 100",
+        "AY1_I: 100",
+        "M_E: 80"
+      ],
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "HAVE",
+        "HH_B: 100",
+        "AE1_I: 60",
+        "V_E: 100"
+      ],
+      [
+        "TO",
+        "T_B: 100",
+        "UW1_E: 100"
+      ],
+      [
+        "RELAX",
+        "R_B: 100",
+        "IH0_I: 100",
+        "L_I: 100",
+        "AE1_I: 100",
+        "K_I: 100",
+        "S_E: 100"
+      ]
+    ]
+  }
+]

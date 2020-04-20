@@ -1,0 +1,316 @@
+[
+  {
+    "text": "Thinking about being close to water is relaxing.",
+    "chinese": "想到与水亲近，总是让人放松的。",
+    "ipa": "ˈθɪŋkɪŋ əˈbaʊt ˈbiːɪŋ kləʊs tuː ˈwɔːtər ɪz rɪˈlæksɪŋ",
+    "maxScore": [
+      [
+        "THINKING",
+        "TH_B: 60",
+        "IH1_I: 100",
+        "NG_I: 100",
+        "K_I: 100",
+        "IH0_I: 80",
+        "NG_E: 100"
+      ],
+      [
+        "ABOUT",
+        "AH0_B: 40",
+        "B_I: 80",
+        "AW1_I: 100",
+        "T_E: 100"
+      ],
+      [
+        "BEING",
+        "B_B: 100",
+        "IY1_I: 60",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ],
+      [
+        "CLOSE",
+        "K_B: 100",
+        "L_I: 100",
+        "OW1_I: 100",
+        "S_E: 80"
+      ],
+      [
+        "TO",
+        "T_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "WATER",
+        "W_B: 100",
+        "AO1_I: 100",
+        "T_I: 100",
+        "ER0_E: 100"
+      ],
+      [
+        "IS",
+        "IH0_B: 100",
+        "Z_E: 100"
+      ],
+      [
+        "RELAXING",
+        "R_B: 40",
+        "IH0_I: 100",
+        "L_I: 100",
+        "AE1_I: 100",
+        "K_I: 100",
+        "S_I: 100",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "My fondest memories are trips at the beach.",
+    "chinese": "最令我难忘的回忆总是与海边有关。",
+    "ipa": "maɪ ˈfɒndɪst ˈmɛməriz ɑː trɪps æt ðə biːʧ",
+    "maxScore": [
+      [
+        "MY",
+        "M_B: 100",
+        "AY1_E: 100"
+      ],
+      [
+        "FONDEST",
+        "F_B: 100",
+        "AA1_I: 80",
+        "N_I: 100",
+        "D_I: 40",
+        "AH0_I: 60",
+        "S_I: 100",
+        "T_E: 100"
+      ],
+      [
+        "MEMORIES",
+        "M_B: 100",
+        "EH1_I: 100",
+        "M_I: 80",
+        "ER0_I: 80",
+        "IY0_I: 80",
+        "Z_E: 100"
+      ],
+      [
+        "ARE",
+        "AA1_B: 100",
+        "R_E: 100"
+      ],
+      [
+        "TRIPS",
+        "T_B: 100",
+        "R_I: 100",
+        "IH1_I: 100",
+        "P_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "AT",
+        "AE1_B: 100",
+        "T_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "BEACH",
+        "B_B: 100",
+        "IY1_I: 100",
+        "CH_E: 80"
+      ]
+    ]
+  },
+  {
+    "text": "When I'm stressed, I recall these picture memories.",
+    "chinese": "当我感到有压力时，我会去回忆这些画面。",
+    "ipa": "wɛn aɪm strɛst, aɪ rɪˈkɔːl ðiːz ˈpɪkʧə ˈmɛməriz",
+    "maxScore": [
+      [
+        "WHEN",
+        "W_B: 100",
+        "EH1_I: 100",
+        "N_E: 100"
+      ],
+      [
+        "I'M",
+        "AY1_B: 100",
+        "M_E: 100"
+      ],
+      [
+        "STRESSED",
+        "S_B: 100",
+        "T_I: 100",
+        "R_I: 100",
+        "EH1_I: 20",
+        "S_I: 100",
+        "T_E: 60"
+      ],
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "RECALL",
+        "R_B: 100",
+        "IH0_I: 100",
+        "K_I: 100",
+        "AO1_I: 60",
+        "L_E: 100"
+      ],
+      [
+        "THESE",
+        "DH_B: 60",
+        "IY1_I: 100",
+        "Z_E: 100"
+      ],
+      [
+        "PICTURE",
+        "P_B: 100",
+        "IH1_I: 100",
+        "K_I: 100",
+        "CH_I: 100",
+        "ER0_E: 100"
+      ],
+      [
+        "MEMORIES",
+        "M_B: 100",
+        "EH1_I: 100",
+        "M_I: 100",
+        "ER0_I: 100",
+        "IY0_I: 100",
+        "Z_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "I can feel the cool sensation on my feet.",
+    "chinese": "我能感受到脚上的冰凉触感。",
+    "ipa": "aɪ kæn fiːl ðə kuːl sɛnˈseɪʃən ɒn maɪ fiːt",
+    "maxScore": [
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "CAN",
+        "K_B: 100",
+        "AH0_I: 100",
+        "N_E: 100"
+      ],
+      [
+        "FEEL",
+        "F_B: 100",
+        "IY1_I: 100",
+        "L_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "COOL",
+        "K_B: 100",
+        "UW1_I: 100",
+        "L_E: 80"
+      ],
+      [
+        "SENSATION",
+        "S_B: 100",
+        "EH0_I: 100",
+        "N_I: 100",
+        "S_I: 60",
+        "EY1_I: 100",
+        "SH_I: 100",
+        "AH0_I: 100",
+        "N_E: 100"
+      ],
+      [
+        "ON",
+        "AA1_B: 60",
+        "N_E: 100"
+      ],
+      [
+        "MY",
+        "M_B: 100",
+        "AY1_E: 100"
+      ],
+      [
+        "FEET",
+        "F_B: 100",
+        "IY1_I: 100",
+        "T_E: 80"
+      ]
+    ]
+  },
+  {
+    "text": "I also sense the soothing movements of the waves.",
+    "chinese": "我甚至能感受到海浪令人缓和的韵律。",
+    "ipa": "aɪ ˈɔːlsəʊ sɛns ðə ˈsuːðɪŋ ˈmuːvmənts ɒv ðə weɪvz",
+    "maxScore": [
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "ALSO",
+        "AO1_B: 100",
+        "L_I: 100",
+        "S_I: 80",
+        "OW0_E: 0"
+      ],
+      [
+        "SENSE",
+        "S_B: 100",
+        "EH1_I: 20",
+        "N_I: 100",
+        "S_E: 80"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "SOOTHING",
+        "S_B: 100",
+        "UW1_I: 100",
+        "DH_I: 60",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ],
+      [
+        "MOVEMENTS",
+        "M_B: 0",
+        "UW1_I: 0",
+        "V_I: 60",
+        "M_I: 100",
+        "AH0_I: 60",
+        "N_I: 100",
+        "T_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "OF",
+        "AH0_B: 100",
+        "V_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 60",
+        "AH0_E: 100"
+      ],
+      [
+        "WAVES",
+        "W_B: 100",
+        "EY1_I: 100",
+        "V_I: 100",
+        "Z_E: 100"
+      ]
+    ]
+  }
+]

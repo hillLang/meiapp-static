@@ -1,0 +1,267 @@
+[
+  {
+    "text": "Spring is the best time for me.",
+    "chinese": "我认为春天是一年中最好的时间。",
+    "ipa": "sprɪŋ ɪz ðə bɛst taɪm fɔː miː",
+    "maxScore": [
+      [
+        "SPRING",
+        "S_B: 100",
+        "P_I: 60",
+        "R_I: 100",
+        "IH1_I: 100",
+        "NG_E: 100"
+      ],
+      [
+        "IS",
+        "IH0_B: 100",
+        "Z_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "BEST",
+        "B_B: 80",
+        "EH1_I: 80",
+        "S_I: 100",
+        "T_E: 80"
+      ],
+      [
+        "TIME",
+        "T_B: 60",
+        "AY1_I: 100",
+        "M_E: 100"
+      ],
+      [
+        "FOR",
+        "F_B: 100",
+        "R_I: 100",
+        "ER0_E: 0"
+      ],
+      [
+        "ME",
+        "M_B: 100",
+        "IY1_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "I'm in awe at the budding of new growth.",
+    "chinese": "新生命的萌生让人心生敬畏。",
+    "ipa": "aɪm ɪn ɔː æt ðə ˈbʌdɪŋ ɒv njuː grəʊθ",
+    "maxScore": [
+      [
+        "I'M",
+        "AY1_B: 100",
+        "M_E: 100"
+      ],
+      [
+        "IN",
+        "IH0_B: 100",
+        "N_E: 100"
+      ],
+      [
+        "AWE",
+        "AA1_S: 40"
+      ],
+      [
+        "AT",
+        "AE1_B: 100",
+        "T_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "BUDDING",
+        "B_B: 100",
+        "AH1_I: 100",
+        "D_I: 100",
+        "IH0_I: 100",
+        "NG_E: 80"
+      ],
+      [
+        "OF",
+        "AH0_B: 40",
+        "V_E: 100"
+      ],
+      [
+        "NEW",
+        "N_B: 100",
+        "Y_I: 100",
+        "UW1_E: 100"
+      ],
+      [
+        "GROWTH",
+        "G_B: 100",
+        "R_I: 100",
+        "OW1_I: 100",
+        "TH_E: 80"
+      ]
+    ]
+  },
+  {
+    "text": "The world awakens from hibernating.",
+    "chinese": "整个世界从蛰伏期苏醒。",
+    "ipa": "ðə wɜːld əˈweɪkənz frɒm ˈhaɪbɜːneɪtɪŋ",
+    "maxScore": [
+      [
+        "THE",
+        "DH_B: 60",
+        "AH0_E: 100"
+      ],
+      [
+        "WORLD",
+        "W_B: 100",
+        "ER1_I: 100",
+        "L_I: 100",
+        "D_E: 100"
+      ],
+      [
+        "AWAKENS",
+        "AH0_B: 80",
+        "W_I: 100",
+        "EY1_I: 100",
+        "K_I: 100",
+        "AH0_I: 40",
+        "N_I: 100",
+        "Z_E: 100"
+      ],
+      [
+        "FROM",
+        "F_B: 100",
+        "ER0_I: 100",
+        "M_E: 100"
+      ],
+      [
+        "HIBERNATING",
+        "HH_B: 100",
+        "AY2_I: 100",
+        "B_I: 60",
+        "ER0_I: 100",
+        "N_I: 60",
+        "EY2_I: 60",
+        "T_I: 40",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "The songs of birds begin my day.",
+    "chinese": "伴随小鸟的歌声，开始我的一天。",
+    "ipa": "ðə sɒŋz ɒv bɜːdz bɪˈgɪn maɪ deɪ",
+    "maxScore": [
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "SONGS",
+        "S_B: 100",
+        "AO1_I: 100",
+        "NG_I: 80",
+        "Z_E: 100"
+      ],
+      [
+        "OF",
+        "AH0_B: 100",
+        "V_E: 100"
+      ],
+      [
+        "BIRDS",
+        "B_B: 100",
+        "ER1_I: 100",
+        "D_I: 80",
+        "Z_E: 100"
+      ],
+      [
+        "BEGIN",
+        "B_B: 100",
+        "IH0_I: 100",
+        "G_I: 100",
+        "IH1_I: 80",
+        "N_E: 100"
+      ],
+      [
+        "MY",
+        "M_B: 100",
+        "AY1_E: 60"
+      ],
+      [
+        "DAY",
+        "D_B: 100",
+        "EY1_E: 80"
+      ]
+    ]
+  },
+  {
+    "text": "I also sense the soothing movements of the waves.",
+    "chinese": "邻里四周处处百花盛开。",
+    "ipa": "maɪ ˈneɪbəhʊd ɪz ˈpeɪntɪd wɪð bluːmz ɒv ˈflaʊəz",
+    "maxScore": [
+      [
+        "MY",
+        "M_B: 100",
+        "AY1_E: 100"
+      ],
+      [
+        "NEIGHBORHOOD",
+        "N_B: 100",
+        "EY1_I: 100",
+        "B_I: 100",
+        "ER0_I: 100",
+        "HH_I: 100",
+        "UH2_I: 0",
+        "D_E: 40"
+      ],
+      [
+        "IS",
+        "IH0_B: 100",
+        "Z_E: 60"
+      ],
+      [
+        "PAINTED",
+        "P_B: 100",
+        "EY1_I: 100",
+        "N_I: 60",
+        "T_I: 80",
+        "IH0_I: 60",
+        "D_E: 100"
+      ],
+      [
+        "WITH",
+        "W_B: 100",
+        "IH0_I: 80",
+        "DH_E: 80"
+      ],
+      [
+        "BLOOMS",
+        "B_B: 100",
+        "L_I: 100",
+        "UW1_I: 100",
+        "M_I: 100",
+        "Z_E: 40"
+      ],
+      [
+        "OF",
+        "AH0_B: 100",
+        "V_E: 100"
+      ],
+      [
+        "FLOWERS",
+        "F_B: 100",
+        "L_I: 100",
+        "AW1_I: 80",
+        "ER0_I: 100",
+        "Z_E: 100"
+      ]
+    ]
+  }
+]

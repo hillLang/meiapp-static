@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Make sure to bundle up",
+    "chinese": "一定多穿点啊。",
+    "ipa": "meɪk ʃʊə tuː ˈbʌndl ʌp",
+    "maxScore": [["MAKE", "M_B: 100", "EY1_I: 100", "K_E: 100"], ["SURE", "SH_B: 100", "UH1_I: 100", "R_E: 100"], ["TO", "T_B: 80", "UW1_E: 20"], ["BUNDLE", "B_B: 100", "AH1_I: 100", "N_I: 100", "D_I: 100", "AH0_I: 100", "L_E: 60"], ["UP", "AH1_B: 60", "P_E: 100"]]
+  },
+  {
+    "text": "It was a real bargain",
+    "chinese": "这回捡了个便宜。",
+    "ipa": "ɪt wɒz ə rɪəl ˈbɑːgɪn",
+    "maxScore": [["IT", "IH1_B: 100", "T_E: 100"], ["WAS", "W_B: 100", "AH0_I: 100", "Z_E: 80"], ["A", "AH0_S: 100"], ["REAL", "R_B: 100", "IY1_I: 100", "L_E: 100"], ["BARGAIN", "B_B: 100", "AA1_I: 100", "R_I: 100", "G_I: 100", "IH0_I: 60", "N_E: 100"]]
+  },
+  {
+    "text": "I'm so sorry to hear that",
+    "chinese": "这事儿太不幸了。",
+    "ipa": "aɪm səʊ ˈsɒri tuː hɪə ðæt",
+    "maxScore": [["I'M", "AY1_B: 100", "M_E: 100"], ["SO", "S_B: 100", "OW1_E: 100"], ["SORRY", "S_B: 100", "AA1_I: 100", "R_I: 100", "IY0_E: 100"], ["TO", "T_B: 40", "IH0_E: 40"], ["HEAR", "HH_B: 100", "IY1_I: 100", "R_E: 100"], ["THAT", "DH_B: 100", "AE1_I: 100", "T_E: 100"]]
+  },
+  {
+    "text": "Let's grab a bite to eat",
+    "chinese": "走，咱去吃点啥。",
+    "ipa": "lɛts græb ə baɪt tuː iːt",
+    "maxScore": [["LET'S", "L_B: 20", "EH1_I: 100", "T_I: 100", "S_E: 100"], ["GRAB", "G_B: 100", "R_I: 100", "AE1_I: 100", "B_E: 100"], ["A", "AH0_S: 100"], ["BITE", "B_B: 100", "AY1_I: 100", "T_E: 100"], ["TO", "T_B: 100", "IH0_E: 100"], ["EAT", "IY1_B: 100", "T_E: 60"]]
+  },
+  {
+    "text": "Are you free Saturday night",
+    "chinese": "周六晚上有空么？",
+    "ipa": "ɑː juː friː ˈsætədeɪ naɪt",
+    "maxScore": [["ARE", "AA1_B: 100", "R_E: 100"], ["YOU", "Y_B: 100", "UW1_E: 100"], ["FREE", "F_B: 100", "R_I: 100", "IY1_E: 100"], ["SATURDAY", "S_B: 100", "AE1_I: 60", "T_I: 100", "ER0_I: 60", "D_I: 100", "IY0_E: 20"], ["NIGHT", "N_B: 100", "AY1_I: 80", "T_E: 100"]]
+  }
+  ]

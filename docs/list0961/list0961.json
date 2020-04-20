@@ -1,0 +1,304 @@
+[
+  {
+    "text": "I would be a professor.",
+    "chinese": "我想当教授。",
+    "ipa": "aɪ wʊd biː ə prəˈfɛsə",
+    "maxScore": [
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "WOULD",
+        "W_B: 100",
+        "UH1_I: 100",
+        "D_E: 100"
+      ],
+      [
+        "BE",
+        "B_B: 100",
+        "IY1_E: 100"
+      ],
+      [
+        "A",
+        "AH0_S: 100"
+      ],
+      [
+        "PROFESSOR",
+        "P_B: 100",
+        "R_I: 100",
+        "AH0_I: 100",
+        "F_I: 100",
+        "EH1_I: 0",
+        "S_I: 100",
+        "ER0_E: 60"
+      ]
+    ]
+  },
+  {
+    "text": "I imagine that the interaction with students is energizing.",
+    "chinese": "想象到与学生们的互动就很让人激动。",
+    "ipa": "aɪ ɪˈmæʤɪn ðæt ði ˌɪntərˈækʃən wɪð ˈstjuːdənts ɪz ˈɛnəʤaɪzɪŋ",
+    "maxScore": [
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "IMAGINE",
+        "IH0_B: 60",
+        "M_I: 100",
+        "AE1_I: 100",
+        "JH_I: 100",
+        "AH0_I: 80",
+        "N_E: 100"
+      ],
+      [
+        "THAT",
+        "DH_B: 100",
+        "AH0_I: 100",
+        "T_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "INTERACTION",
+        "IH2_B: 100",
+        "N_I: 100",
+        "ER0_I: 100",
+        "AE1_I: 100",
+        "K_I: 100",
+        "SH_I: 100",
+        "AH0_I: 60",
+        "N_E: 100"
+      ],
+      [
+        "WITH",
+        "W_B: 100",
+        "IH0_I: 100",
+        "TH_E: 80"
+      ],
+      [
+        "STUDENTS",
+        "S_B: 100",
+        "T_I: 100",
+        "UW1_I: 60",
+        "D_I: 80",
+        "AH0_I: 60",
+        "N_I: 100",
+        "T_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "IS",
+        "IH1_B: 100",
+        "Z_E: 100"
+      ],
+      [
+        "ENERGIZING",
+        "EH1_B: 40",
+        "N_I: 100",
+        "ER0_I: 100",
+        "JH_I: 100",
+        "AY2_I: 80",
+        "Z_I: 100",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "They force one to think about the world.",
+    "chinese": "迫使我们从世界的角度思考问题。",
+    "ipa": "ðeɪ fɔːs wʌn tuː θɪŋk əˈbaʊt ðə wɜːld",
+    "maxScore": [
+      [
+        "THEY",
+        "DH_B: 100",
+        "EY1_E: 100"
+      ],
+      [
+        "FORCE",
+        "F_B: 100",
+        "AO1_I: 80",
+        "R_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "ONE",
+        "W_B: 100",
+        "AH1_I: 0",
+        "N_E: 100"
+      ],
+      [
+        "TO",
+        "T_B: 100",
+        "IH0_E: 100"
+      ],
+      [
+        "THINK",
+        "TH_B: 60",
+        "IH1_I: 100",
+        "NG_I: 100",
+        "K_E: 100"
+      ],
+      [
+        "ABOUT",
+        "AH0_B: 100",
+        "B_I: 100",
+        "AW1_I: 100",
+        "T_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "WORLD",
+        "W_B: 100",
+        "ER1_I: 100",
+        "L_I: 100",
+        "D_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "Universities are a think tank for diverse ideas.",
+    "chinese": "大学是一个可容纳各种思想的智慧库。",
+    "ipa": "ˌjuːnɪˈvɜːsɪtiz ɑːr ə θɪŋk tæŋk fɔː daɪˈvɜːs aɪˈdɪəz",
+    "maxScore": [
+      [
+        "UNIVERSITIES",
+        "Y_B: 100",
+        "UW2_I: 100",
+        "N_I: 60",
+        "AH0_I: 100",
+        "V_I: 100",
+        "ER1_I: 100",
+        "S_I: 100",
+        "AH0_I: 60",
+        "T_I: 100",
+        "IY0_I: 100",
+        "Z_E: 100"
+      ],
+      [
+        "ARE",
+        "AA1_B: 100",
+        "R_E: 100"
+      ],
+      [
+        "A",
+        "AH0_S: 100"
+      ],
+      [
+        "THINK",
+        "TH_B: 100",
+        "IH1_I: 100",
+        "NG_I: 100",
+        "K_E: 60"
+      ],
+      [
+        "TANK",
+        "T_B: 100",
+        "AE1_I: 40",
+        "NG_I: 40",
+        "K_E: 100"
+      ],
+      [
+        "FOR",
+        "F_B: 100",
+        "AO1_I: 100",
+        "R_E: 100"
+      ],
+      [
+        "DIVERSE",
+        "D_B: 100",
+        "AY0_I: 100",
+        "V_I: 100",
+        "ER1_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "IDEAS",
+        "AY0_B: 100",
+        "D_I: 100",
+        "IY1_I: 100",
+        "AH0_I: 40",
+        "Z_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "This job provides a platform for perpetual learning.",
+    "chinese": "教授这份职业本身提供了一个可终身学习的平台。",
+    "ipa": "ðɪs ʤɒb prəˈvaɪdz ə ˈplætfɔːm fɔː pəˈpɛʧʊəl ˈlɜːnɪŋ",
+    "maxScore": [
+      [
+        "THIS",
+        "DH_B: 80",
+        "IH1_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "JOB",
+        "JH_B: 100",
+        "AA1_I: 100",
+        "B_E: 100"
+      ],
+      [
+        "PROVIDES",
+        "P_B: 100",
+        "R_I: 100",
+        "AH0_I: 100",
+        "V_I: 100",
+        "AY1_I: 100",
+        "D_I: 100",
+        "Z_E: 100"
+      ],
+      [
+        "A",
+        "AH0_S: 100"
+      ],
+      [
+        "PLATFORM",
+        "P_B: 100",
+        "L_I: 100",
+        "AE1_I: 100",
+        "T_I: 100",
+        "F_I: 100",
+        "AO2_I: 100",
+        "R_I: 100",
+        "M_E: 100"
+      ],
+      [
+        "FOR",
+        "F_B: 100",
+        "AO1_I: 100",
+        "R_E: 100"
+      ],
+      [
+        "PERPETUAL",
+        "P_B: 100",
+        "ER0_I: 100",
+        "P_I: 100",
+        "EH1_I: 100",
+        "CH_I: 100",
+        "UW0_I: 100",
+        "AH0_I: 80",
+        "L_E: 100"
+      ],
+      [
+        "LEARNING",
+        "L_B: 100",
+        "ER1_I: 60",
+        "N_I: 100",
+        "IH0_I: 100",
+        "NG_E: 80"
+      ]
+    ]
+  }
+]

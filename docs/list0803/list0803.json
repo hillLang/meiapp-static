@@ -1,0 +1,340 @@
+[
+  {
+    "text": "maximum:  There is no maximum limit on the amount of data.",
+    "chinese": "数据量没有最大限制。",
+    "ipa": "ˈmæksəməm:  ðɛr ɪz noʊ ˈmæksəməm ˈlɪmət ɑn ði əˈmaʊnt ʌv ˈdeɪtə.",
+    "maxScore": [
+      [
+        "MAXIMUM",
+        "M_B: 100",
+        "AE1_I: 100",
+        "K_I: 100",
+        "S_I: 100",
+        "AH0_I: 60",
+        "M_I: 60",
+        "AH0_I: 40",
+        "M_E: 100"
+      ],
+      [
+        "THERE",
+        "DH_B: 100",
+        "EH1_I: 100",
+        "R_E: 100"
+      ],
+      [
+        "IS",
+        "IH0_B: 100",
+        "Z_E: 100"
+      ],
+      [
+        "NO",
+        "N_B: 100",
+        "OW1_E: 100"
+      ],
+      [
+        "MAXIMUM",
+        "M_B: 100",
+        "AE1_I: 100",
+        "K_I: 100",
+        "S_I: 100",
+        "AH0_I: 100",
+        "M_I: 40",
+        "AH0_I: 40",
+        "M_E: 80"
+      ],
+      [
+        "LIMIT",
+        "L_B: 100",
+        "IH1_I: 100",
+        "M_I: 100",
+        "AH0_I: 60",
+        "T_E: 100"
+      ],
+      [
+        "ON",
+        "AO1_B: 100",
+        "N_E: 80"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "IY0_E: 100"
+      ],
+      [
+        "AMOUNT",
+        "AH0_B: 60",
+        "M_I: 100",
+        "AW1_I: 100",
+        "N_I: 100",
+        "T_E: 100"
+      ],
+      [
+        "OF",
+        "AH1_B: 0",
+        "V_E: 100"
+      ],
+      [
+        "DATA",
+        "D_B: 60",
+        "EY1_I: 60",
+        "T_I: 0",
+        "AH0_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "decorum:  You exhibit remarkable modesty and decorum.",
+    "chinese": "你显得尤其谦逊有礼。",
+    "ipa": "dɪˈkɔrəm:  ju ɪgˈzɪbɪt rɪˈmɑrkəbəl ˈmɑdəsti ænd dɪˈkɔrəm.",
+    "maxScore": [
+      [
+        "DECORUM",
+        "D_B: 100",
+        "IH0_I: 20",
+        "K_I: 100",
+        "AO1_I: 100",
+        "R_I: 100",
+        "AH0_I: 100",
+        "M_E: 100"
+      ],
+      [
+        "YOU",
+        "Y_B: 100",
+        "UW1_E: 100"
+      ],
+      [
+        "EXHIBIT",
+        "IH0_B: 100",
+        "G_I: 100",
+        "Z_I: 100",
+        "IH1_I: 100",
+        "B_I: 20",
+        "IH0_I: 40",
+        "T_E: 100"
+      ],
+      [
+        "REMARKABLE",
+        "R_B: 100",
+        "IH0_I: 100",
+        "M_I: 100",
+        "AA1_I: 100",
+        "R_I: 100",
+        "K_I: 100",
+        "AH0_I: 100",
+        "B_I: 100",
+        "AH0_I: 100",
+        "L_E: 100"
+      ],
+      [
+        "MODESTY",
+        "M_B: 100",
+        "AA1_I: 100",
+        "D_I: 60",
+        "AH0_I: 100",
+        "S_I: 100",
+        "T_I: 100",
+        "IY0_E: 100"
+      ],
+      [
+        "AND",
+        "AE1_B: 100",
+        "N_I: 100",
+        "D_E: 100"
+      ],
+      [
+        "DECORUM",
+        "D_B: 100",
+        "IH0_I: 100",
+        "K_I: 100",
+        "AO1_I: 100",
+        "R_I: 100",
+        "AH0_I: 60",
+        "M_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "springtime:  Springtime is my favorite season.",
+    "chinese": "春天是我最喜欢的季节。",
+    "ipa": "ˈsprɪŋˌtaɪm:  ˈsprɪŋˌtaɪm ɪz maɪ ˈfeɪvərɪt ˈsizən.",
+    "maxScore": [
+      [
+        "SPRINGTIME",
+        "S_B: 100",
+        "P_I: 100",
+        "R_I: 100",
+        "IH1_I: 100",
+        "NG_I: 100",
+        "T_I: 100",
+        "AY2_I: 100",
+        "M_E: 100"
+      ],
+      [
+        "SPRINGTIME",
+        "S_B: 100",
+        "P_I: 100",
+        "R_I: 100",
+        "IH1_I: 100",
+        "NG_I: 100",
+        "T_I: 100",
+        "AY2_I: 100",
+        "M_E: 60"
+      ],
+      [
+        "IS",
+        "IH0_B: 60",
+        "Z_E: 100"
+      ],
+      [
+        "MY",
+        "M_B: 100",
+        "AY1_E: 80"
+      ],
+      [
+        "FAVORITE",
+        "F_B: 40",
+        "EY1_I: 100",
+        "V_I: 100",
+        "ER0_I: 100",
+        "IH0_I: 60",
+        "T_E: 100"
+      ],
+      [
+        "SEASON",
+        "S_B: 100",
+        "IY1_I: 100",
+        "Z_I: 100",
+        "AH0_I: 0",
+        "N_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "extreme:  We are experiencing extreme weather.",
+    "chinese": "我们经历着极端天气。",
+    "ipa": "ɛkˈstrim:  wi ɑr ɪkˈspɪriənsɪŋ ɛkˈstrim ˈwɛðər",
+    "maxScore": [
+      [
+        "EXTREME",
+        "EH0_B: 20",
+        "K_I: 100",
+        "S_I: 100",
+        "T_I: 100",
+        "R_I: 100",
+        "IY1_I: 100",
+        "M_E: 100"
+      ],
+      [
+        "WE",
+        "W_B: 100",
+        "IY1_E: 100"
+      ],
+      [
+        "ARE",
+        "AA1_B: 100",
+        "R_E: 100"
+      ],
+      [
+        "EXPERIENCING",
+        "IH0_B: 40",
+        "K_I: 100",
+        "S_I: 100",
+        "P_I: 80",
+        "IH1_I: 100",
+        "R_I: 100",
+        "IY0_I: 100",
+        "AH0_I: 100",
+        "N_I: 100",
+        "S_I: 100",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ],
+      [
+        "EXTREME",
+        "EH0_B: 60",
+        "K_I: 100",
+        "S_I: 100",
+        "T_I: 100",
+        "R_I: 100",
+        "IY1_I: 100",
+        "M_E: 100"
+      ],
+      [
+        "WEATHER",
+        "W_B: 100",
+        "EH1_I: 60",
+        "DH_I: 100",
+        "ER0_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "auditorium:  The auditorium was filled with loud applause.",
+    "chinese": "礼堂里充满热烈的掌声。",
+    "ipa": "ˌɔdəˈtɔriəm:  ði ˌɔdəˈtɔriəm wʌz fɪld wɪð laʊd əˈplɔz",
+    "maxScore": [
+      [
+        "AUDITORIUM",
+        "AO2_B: 20",
+        "D_I: 100",
+        "AH0_I: 100",
+        "T_I: 100",
+        "AO1_I: 60",
+        "R_I: 100",
+        "IY0_I: 100",
+        "AH0_I: 40",
+        "M_E: 100"
+      ],
+      [
+        "THE",
+        "DH_B: 80",
+        "IY0_E: 100"
+      ],
+      [
+        "AUDITORIUM",
+        "AO2_B: 80",
+        "D_I: 100",
+        "AH0_I: 100",
+        "T_I: 100",
+        "AO1_I: 20",
+        "R_I: 100",
+        "IY0_I: 100",
+        "AH0_I: 40",
+        "M_E: 100"
+      ],
+      [
+        "WAS",
+        "W_B: 100",
+        "AH0_I: 100",
+        "Z_E: 100"
+      ],
+      [
+        "FILLED",
+        "F_B: 100",
+        "IH1_I: 100",
+        "L_I: 100",
+        "D_E: 100"
+      ],
+      [
+        "WITH",
+        "W_B: 100",
+        "IH1_I: 100",
+        "TH_E: 60"
+      ],
+      [
+        "LOUD",
+        "L_B: 100",
+        "AW1_I: 100",
+        "D_E: 100"
+      ],
+      [
+        "APPLAUSE",
+        "AH0_B: 100",
+        "P_I: 60",
+        "L_I: 100",
+        "AO1_I: 80",
+        "Z_E: 100"
+      ]
+    ]
+  }
+]

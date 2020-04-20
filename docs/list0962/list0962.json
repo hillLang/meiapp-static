@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Hands down, I would choose a job with personal satisfaction.",
+    "chinese": "毫无疑问地，我会选择一个可实现人生价值的职业。",
+    "ipa": "hændz daʊn, aɪ wʊd ʧuːz ə ʤɒb wɪð ˈpɜːsnl ˌsætɪsˈfækʃən",
+    "maxScore": [
+      [
+        "HANDS",
+        "HH_B: 0",
+        "AE1_I: 100",
+        "N_I: 100",
+        "D_I: 100",
+        "Z_E: 100"
+      ],
+      [
+        "DOWN",
+        "D_B: 80",
+        "AW1_I: 60",
+        "N_E: 100"
+      ],
+      [
+        "I",
+        "AY1_S: 80"
+      ],
+      [
+        "WOULD",
+        "W_B: 0",
+        "UH1_I: 40",
+        "D_E: 100"
+      ],
+      [
+        "CHOOSE",
+        "CH_B: 100",
+        "UW1_I: 100",
+        "Z_E: 100"
+      ],
+      [
+        "A",
+        "AH0_S: 60"
+      ],
+      [
+        "JOB",
+        "JH_B: 100",
+        "AA1_I: 100",
+        "B_E: 100"
+      ],
+      [
+        "WITH",
+        "W_B: 100",
+        "IH1_I: 100",
+        "TH_E: 100"
+      ],
+      [
+        "PERSONAL",
+        "P_B: 100",
+        "ER1_I: 100",
+        "S_I: 100",
+        "IH0_I: 40",
+        "N_I: 100",
+        "IH0_I: 80",
+        "L_E: 100"
+      ],
+      [
+        "SATISFACTION",
+        "S_B: 100",
+        "AE2_I: 80",
+        "T_I: 40",
+        "AH0_I: 80",
+        "S_I: 100",
+        "F_I: 100",
+        "AE1_I: 40",
+        "K_I: 100",
+        "SH_I: 100",
+        "AH0_I: 100",
+        "N_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "Enjoying a job allows for growth.",
+    "chinese": "享受一份工作，就会有职业发展的空间。",
+    "ipa": "ɪnˈʤɔɪɪŋ ə ʤɒb əˈlaʊz fɔː grəʊθ",
+    "maxScore": [
+      [
+        "ENJOYING",
+        "IH0_B: 100",
+        "N_I: 100",
+        "JH_I: 100",
+        "OY1_I: 40",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ],
+      [
+        "A",
+        "AH0_S: 100"
+      ],
+      [
+        "JOB",
+        "JH_B: 100",
+        "AA1_I: 100",
+        "B_E: 100"
+      ],
+      [
+        "ALLOWS",
+        "AH0_B: 100",
+        "L_I: 40",
+        "AW1_I: 100",
+        "Z_E: 100"
+      ],
+      [
+        "FOR",
+        "F_B: 100",
+        "ER0_E: 100"
+      ],
+      [
+        "GROWTH",
+        "G_B: 40",
+        "R_I: 20",
+        "OW1_I: 100",
+        "TH_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "The growth to learn and excel gets noticed.",
+    "chinese": "累积学习和卓越的成长就会引起关注。",
+    "ipa": "ðə grəʊθ tuː lɜːn ænd ɪkˈsɛl gɛts ˈnəʊtɪst",
+    "maxScore": [
+      [
+        "THE",
+        "DH_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "GROWTH",
+        "G_B: 100",
+        "R_I: 100",
+        "OW1_I: 60",
+        "TH_E: 20"
+      ],
+      [
+        "TO",
+        "T_B: 100",
+        "AH0_E: 100"
+      ],
+      [
+        "LEARN",
+        "L_B: 100",
+        "ER1_I: 100",
+        "N_E: 100"
+      ],
+      [
+        "AND",
+        "AE1_B: 100",
+        "N_I: 100",
+        "D_E: 60"
+      ],
+      [
+        "EXCEL",
+        "IH0_B: 100",
+        "K_I: 100",
+        "S_I: 100",
+        "EH1_I: 20",
+        "L_E: 100"
+      ],
+      [
+        "GETS",
+        "G_B: 100",
+        "EH1_I: 100",
+        "T_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "NOTICED",
+        "N_B: 100",
+        "OW1_I: 100",
+        "T_I: 100",
+        "AH0_I: 100",
+        "S_I: 100",
+        "T_E: 80"
+      ]
+    ]
+  },
+  {
+    "text": "When I'm having fun, I do well.",
+    "chinese": "当我觉得有趣，也会愿意去做好。",
+    "ipa": "wɛn aɪm ˈhævɪŋ fʌn, aɪ duː wɛl",
+    "maxScore": [
+      [
+        "WHEN",
+        "W_B: 100",
+        "EH1_I: 100",
+        "N_E: 100"
+      ],
+      [
+        "I'M",
+        "AY1_B: 60",
+        "M_E: 100"
+      ],
+      [
+        "HAVING",
+        "HH_B: 100",
+        "AE1_I: 100",
+        "V_I: 100",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ],
+      [
+        "FUN",
+        "F_B: 60",
+        "AH1_I: 100",
+        "N_E: 100"
+      ],
+      [
+        "I",
+        "AY1_S: 100"
+      ],
+      [
+        "DO",
+        "D_B: 100",
+        "UW1_E: 100"
+      ],
+      [
+        "WELL",
+        "W_B: 100",
+        "EH1_I: 100",
+        "L_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "Often, it results in financial growth.",
+    "chinese": "相应地，也会带来经济回馈。",
+    "ipa": "ˈɒf(ə)n, ɪt rɪˈzʌlts ɪn faɪˈnænʃəl grəʊθ",
+    "maxScore": [
+      [
+        "OFTEN",
+        "AO1_B: 60",
+        "F_I: 100",
+        "T_I: 40",
+        "AH0_I: 40",
+        "N_E: 80"
+      ],
+      [
+        "IT",
+        "IH1_B: 100",
+        "T_E: 100"
+      ],
+      [
+        "RESULTS",
+        "R_B: 100",
+        "IH0_I: 100",
+        "Z_I: 80",
+        "AH1_I: 100",
+        "L_I: 100",
+        "T_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "IN",
+        "IH1_B: 100",
+        "N_E: 100"
+      ],
+      [
+        "FINANCIAL",
+        "F_B: 100",
+        "AY2_I: 100",
+        "N_I: 40",
+        "AE1_I: 100",
+        "N_I: 100",
+        "SH_I: 100",
+        "AH0_I: 100",
+        "L_E: 100"
+      ],
+      [
+        "GROWTH",
+        "G_B: 100",
+        "R_I: 100",
+        "OW1_I: 100",
+        "TH_E: 100"
+      ]
+    ]
+  }
+]

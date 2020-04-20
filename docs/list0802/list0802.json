@@ -1,0 +1,300 @@
+[
+  {
+    "text": "committee:  Forming a committee maybe necessary for this project.",
+    "chinese": "也许有必要针对此项计划组建委员会。",
+    "ipa": "kəˈmɪti:  ˈfɔrmɪŋ ə kəˈmɪti ˈmeɪbi ˈnɛsəˌsɛri fɔr ðɪs ˈprɑʤɛkt.",
+    "maxScore": [
+      [
+        "COMMITTEE",
+        "K_B: 100",
+        "AH0_I: 100",
+        "M_I: 100",
+        "IH1_I: 100",
+        "T_I: 100",
+        "IY0_E: 100"
+      ],
+      [
+        "FORMING",
+        "F_B: 100",
+        "AO1_I: 100",
+        "R_I: 100",
+        "M_I: 100",
+        "IH0_I: 100",
+        "NG_E: 100"
+      ],
+      [
+        "A",
+        "AH0_S: 100"
+      ],
+      [
+        "COMMITTEE",
+        "K_B: 100",
+        "AH0_I: 100",
+        "M_I: 100",
+        "IH1_I: 100",
+        "T_I: 80",
+        "IY0_E: 100"
+      ],
+      [
+        "MAYBE",
+        "M_B: 100",
+        "EY1_I: 20",
+        "B_I: 80",
+        "IY0_E: 100"
+      ],
+      [
+        "NECESSARY",
+        "N_B: 100",
+        "EH1_I: 100",
+        "S_I: 100",
+        "AH0_I: 100",
+        "S_I: 80",
+        "EH2_I: 100",
+        "R_I: 100",
+        "IY0_E: 80"
+      ],
+      [
+        "FOR",
+        "F_B: 100",
+        "AO1_I: 100",
+        "R_E: 80"
+      ],
+      [
+        "THIS",
+        "DH_B: 100",
+        "IH1_I: 40",
+        "S_E: 100"
+      ],
+      [
+        "PROJECT",
+        "P_B: 100",
+        "R_I: 100",
+        "AA1_I: 60",
+        "JH_I: 40",
+        "EH0_I: 20",
+        "K_I: 100",
+        "T_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "imitate:  Young children imitate their caregivers.",
+    "chinese": "儿童会模仿其看护人的行人举止。",
+    "ipa": "ˈɪməˌteɪt:  jʌŋ ˈʧɪldrən ˈɪməˌteɪt ðɛr ˈkɛrˌgɪvərz.",
+    "maxScore": [
+      [
+        "IMITATE",
+        "IH1_B: 100",
+        "M_I: 100",
+        "AH0_I: 80",
+        "T_I: 100",
+        "EY2_I: 60",
+        "T_E: 100"
+      ],
+      [
+        "YOUNG",
+        "Y_B: 100",
+        "AH1_I: 100",
+        "NG_E: 60"
+      ],
+      [
+        "CHILDREN",
+        "CH_B: 100",
+        "IH1_I: 100",
+        "L_I: 100",
+        "D_I: 100",
+        "R_I: 100",
+        "AH0_I: 100",
+        "N_E: 100"
+      ],
+      [
+        "IMITATE",
+        "IH1_B: 100",
+        "M_I: 40",
+        "AH0_I: 40",
+        "T_I: 100",
+        "EY2_I: 20",
+        "T_E: 100"
+      ],
+      [
+        "THEIR",
+        "DH_B: 100",
+        "EH1_I: 100",
+        "R_E: 100"
+      ],
+      [
+        "",
+        "SPN_S: 0"
+      ]
+    ]
+  },
+  {
+    "text": "circumstance:  In this circumstance, the decision is correct.",
+    "chinese": "在这种情况下，这个决定是正确的。",
+    "ipa": "ˈsɜrkəmˌstæns:  ɪn ðɪs ˈsɜrkəmˌstæns, ðə dɪˈsɪʒən ɪz kəˈrɛkt.",
+    "maxScore": [
+      [
+        "CIRCUMSTANCE",
+        "S_B: 100",
+        "ER1_I: 100",
+        "K_I: 100",
+        "AH0_I: 60",
+        "M_I: 100",
+        "S_I: 100",
+        "T_I: 100",
+        "AE2_I: 60",
+        "N_I: 100",
+        "S_E: 100"
+      ],
+      [
+        "IN",
+        "IH1_B: 100",
+        "N_E: 100"
+      ],
+      [
+        "THIS",
+        "DH_B: 100",
+        "IH1_I: 0",
+        "S_E: 100"
+      ],
+      [
+        "",
+        "SPN_S: 40"
+      ],
+      [
+        "THE",
+        "DH_B: 100",
+        "AH1_E: 60"
+      ],
+      [
+        "DECISION",
+        "D_B: 100",
+        "IH0_I: 80",
+        "S_I: 100",
+        "IH1_I: 40",
+        "ZH_I: 100",
+        "AH0_I: 60",
+        "N_E: 80"
+      ],
+      [
+        "IS",
+        "IH0_B: 60",
+        "Z_E: 100"
+      ],
+      [
+        "CORRECT",
+        "K_B: 100",
+        "ER0_I: 60",
+        "EH1_I: 20",
+        "K_I: 80",
+        "T_E: 100"
+      ]
+    ]
+  },
+  {
+    "text": "diminish:  Let’s not diminish our efforts.",
+    "chinese": "我们不要妄自菲薄。",
+    "ipa": "dɪˈmɪnɪʃ:  lɛts nɑt dɪˈmɪnɪʃ ˈaʊər ˈɛfərts.",
+    "maxScore": [
+      [
+        "DIMINISH",
+        "D_B: 0",
+        "IH0_I: 100",
+        "M_I: 0",
+        "IH1_I: 0",
+        "N_I: 0",
+        "IH0_I: 0",
+        "SH_E: 0"
+      ],
+      [
+        "LET'S",
+        "L_B: 0",
+        "EH1_I: 0",
+        "T_I: 20",
+        "S_E: 100"
+      ],
+      [
+        "NOT",
+        "N_B: 0",
+        "AA1_I: 0",
+        "T_E: 0"
+      ],
+      [
+        "DIMINISH",
+        "D_B: 60",
+        "IH0_I: 20",
+        "M_I: 0",
+        "IH1_I: 100",
+        "N_I: 100",
+        "IH0_I: 0",
+        "SH_E: 0"
+      ],
+      [
+        "OUR",
+        "AA1_B: 0",
+        "R_E: 20"
+      ],
+      [
+        "EFFORTS",
+        "EH1_B: 40",
+        "F_I: 0",
+        "ER0_I: 0",
+        "T_I: 100",
+        "S_E: 0"
+      ]
+    ]
+  },
+  {
+    "text": "seminar:  The presenter at the seminar was inspirational.",
+    "chinese": "研讨会的发言人很富有感染力。",
+    "ipa": "ˈsɛməˌnɑr:  ðə ˈprɛzəntər æt ðə ˈsɛməˌnɑr wʌz ˌɪnspəˈreɪʃənəl.",
+    "maxScore": [
+      [
+        "DIMINISH",
+        "D_B: 0",
+        "IH0_I: 0",
+        "M_I: 20",
+        "IH1_I: 40",
+        "N_I: 0",
+        "IH0_I: 0",
+        "SH_E: 0"
+      ],
+      [
+        "LET'S",
+        "L_B: 80",
+        "EH1_I: 100",
+        "T_I: 0",
+        "S_E: 0"
+      ],
+      [
+        "NOT",
+        "N_B: 40",
+        "AA1_I: 60",
+        "T_E: 0"
+      ],
+      [
+        "DIMINISH",
+        "D_B: 0",
+        "IH0_I: 0",
+        "M_I: 0",
+        "IH1_I: 60",
+        "N_I: 0",
+        "IH0_I: 0",
+        "SH_E: 0"
+      ],
+      [
+        "OUR",
+        "AW1_B: 0",
+        "R_E: 80"
+      ],
+      [
+        "EFFORTS",
+        "EH1_B: 0",
+        "F_I: 0",
+        "ER0_I: 0",
+        "T_I: 0",
+        "S_E: 0"
+      ]
+    ]
+  }
+]
