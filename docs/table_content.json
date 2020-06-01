@@ -1,0 +1,32 @@
+[
+  {
+    "key": "beginner_lists",
+    "id": "C01",
+    "Chinese": "初学者",
+    "paid": "y"
+  },
+  {
+    "key": "say_ipa_lists",
+    "id": "C02",
+    "Chinese": "学音标",
+    "paid": "y"
+  },
+  {
+    "key": "high_school_lists",
+    "id": "C03",
+    "Chinese": "高考",
+    "paid": "y"
+  },
+  {
+    "key": "toefl_lists",
+    "id": "C04",
+    "Chinese": "托福",
+    "paid": "y"
+  },
+  {
+    "key": "minimal_pair_lists",
+    "id": "C05",
+    "Chinese": "最小对立体",
+    "paid": "y"
+  }
+]
