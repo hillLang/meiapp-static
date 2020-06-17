@@ -1,0 +1,58 @@
+[
+  {
+    "key": "list0801",
+    "id": "0801",
+    "Chinese": "/m/位于词首",
+    "Introduction": "位于词首的/m/，如more",
+    "paid": "y"
+  },
+  {
+    "key": "list0802",
+    "id": "0802",
+    "Chinese": "/m/位于词中",
+    "Introduction": "位于词中的/m/，如computer",
+    "paid": "y"
+  },
+  {
+    "key": "list0803",
+    "id": "0803",
+    "Chinese": "/m/位于词尾",
+    "Introduction": "位于词尾的/m/，如game",
+    "paid": "y"
+  },
+  {
+    "key": "list0960",
+    "id": "0960",
+    "Chinese": "空闲时间-散步",
+    "Introduction": "你怎样利用自己的空闲时间？",
+    "paid": "y"
+  },
+  {
+    "key": "list0961",
+    "id": "0961",
+    "Chinese": "理想工作-老师",
+    "Introduction": "你的理想工作是什么？",
+    "paid": "y"
+  },
+  {
+    "key": "list0962",
+    "id": "0962",
+    "Chinese": "月亮和六便士",
+    "Introduction": "找工作是看兴趣还是看社会需要？",
+    "paid": "y"
+  },
+  {
+    "key": "list0963",
+    "id": "0963",
+    "Chinese": "放松方式-海边",
+    "Introduction": "你平时怎样放松自己？",
+    "paid": "y"
+  },
+  {
+    "key": "list0964",
+    "id": "0964",
+    "Chinese": "最好的季节-春天",
+    "Introduction": "你心目中最好的季节是哪个？",
+    "paid": "y"
+  }
+]
