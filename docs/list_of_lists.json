@@ -21,6 +21,26 @@
     "paid": "y"
   },
   {
+    "key": "list0901",
+    "id": "0901",
+    "Chinese": "日常对话——吃饭",
+    "Introduction": "今晚在外面吃怎么样？",
+    "paid": "y"
+  },
+  {
+    "key": "list0902",
+    "id": "0902",
+    "Chinese": "日常对话——出行",
+    "Introduction": "寄好安全带",
+    "paid": "y"
+  },
+    "key": "list0951",
+    "id": "0951",
+    "Chinese": "学习的地方",
+    "Introduction": "在哪里看书最合适？",
+    "paid": "y"
+  },
+  {
     "key": "list0960",
     "id": "0960",
     "Chinese": "空闲时间-散步",
